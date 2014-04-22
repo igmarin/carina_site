@@ -16,9 +16,9 @@ Gem::Specification.new do |s|
   s.add_dependency 'rails', '~> 4.1.0'
   s.add_dependency 'dynamic_form', '~> 1.1.4'
   s.add_dependency 'normalize-rails', '~> 3.0.1'
-  s.add_dependency 'sass-rails', '~> 4.0.3'
   s.add_dependency 'neat', '~> 1.5.1'
-  s.add_dependency 'bourbon', '~> 3.1.8'
+  s.add_dependency 'bitters', '~> 0.9.3'
+
 
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'rspec-rails', '~> 2.14.2'
