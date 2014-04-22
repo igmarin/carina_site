@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'normalize-rails', '~> 3.0.1'
   s.add_dependency 'neat', '~> 1.5.1'
   s.add_dependency 'bitters', '~> 0.9.3'
+  s.add_dependency 'font-awesome-sass', '~> 4.0.2'
 
 
   s.add_development_dependency 'sqlite3'
